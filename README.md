@@ -20,12 +20,12 @@
 - ✨ cool programmer stuff xdd
 
 ### ☆ . `` hobbies : 
-- ✨ play games
-- ✨ listen to music
+- ✨ play games 
 - ✨ take photographs
 - ✨ read novels and manga
-- ✨ play my favorite guitar
-- ✨ dye my hair (is that even a hobby?)
+- ✨ play my favorite guitar, pain
+- ✨ listen to music and collect albums
+- ✨ dye my hair (is that even a hobby????)
 - ✨ watching anime, doramas, lakorns (i'm really addicted to it)
 
 </br>
