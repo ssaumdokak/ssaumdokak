@@ -70,8 +70,8 @@ i would be happy to have any contact with me, even if you just want to discuss a
 <a href="mailto:elvirochka1117@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://t.me/ssaumdokak">
+  <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Telegram_2019_Logo.svg.png" />
 </br>
 </br>
 </br>
