@@ -72,6 +72,9 @@ i would be happy to have any contact with me, even if you just want to discuss a
 </a>
 <a href="https://t.me/ssaumdokak">
   <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Telegram_2019_Logo.svg.png" />
+ </a>
+ <a href="https://www.instagram.com/ssaumd0kak?igsh=MXhva2ZudmZiN3Ribg==">
+  <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Instagram_logo_2016.svg.png" />
 </br>
 </br>
 </br>
