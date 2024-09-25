@@ -67,7 +67,7 @@
 
 i would be happy to have any contact with me, even if you just want to discuss a new dorama series with me or ask me what hair color works best for you !!
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:elvirochka1117@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
@@ -77,12 +77,6 @@ i would be happy to have any contact with me, even if you just want to discuss a
 </br>
 </a>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+xoxo ^^
 
 *************
