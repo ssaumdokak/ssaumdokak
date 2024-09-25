@@ -11,7 +11,7 @@
 
 # ☆ . `` about me :
 
-### — Elvira / Elya | i'm 18 (omg...) y.o. and I'm from ukraine. i'm studying to be a programmer !! | intp - t ^^
+### — Elvira / Elya | i'm 18 (omg...) y.o. and i'm from ukraine. i'm studying to be a programmer !! | intp - t ^^
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/hanako.gif">
 
@@ -39,7 +39,7 @@
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
 <img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Python-logo-notext.svg.png" alt="python" width="120" hight="50">
 <img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/ISO_C%2B%2B_Logo.svg.png" alt="iso"  width="100" hight="50">
 <img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Java_programming_language_logo.svg.png" alt="java" width="90" hight="50">
