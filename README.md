@@ -1,4 +1,4 @@
-# Anyoung <3
+# anyoung <3
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -9,21 +9,24 @@
 </br>
 
 
-# About ME 💬 :
+# ☆ . `` about me :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### — i'm 18 (omg...) years old and I'm from ukraine. i'm studying to be a programmer !!
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### ☆ . `` learning :
+- ✨ software development
+- ✨ cool programmer stuff xdd
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+### ☆ . `` hobbies : 
+- ✨ play games
+- ✨ listen to music
+- ✨ take photographs
+- ✨ read novels and manga
+- ✨ play my favorite guitar
+- ✨ dye my hair (is that even a hobby?)
+- ✨ watching anime, doramas, lakorns (I'm really addicted to it)
 
 </br>
 </br>
@@ -31,7 +34,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# ☆ . `` languages & tools:
 </br>
 
 <p align="center">
@@ -56,13 +59,13 @@
 
 
 
-# Contact Me :
+# ☆ . `` contact me :
 
 <p>
  </br>
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+i would be happy to have any contact with me, even if you just want to discuss a new dorama series with me or ask me what hair color works best for you !!
 
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
