@@ -23,7 +23,7 @@
 - ✨ play games 
 - ✨ take photographs
 - ✨ read novels and manga
-- ✨ play my favorite guitar, pain
+- ✨ play my favorite guitar, paint 
 - ✨ listen to music and collect albums
 - ✨ dye my hair (is that even a hobby????)
 - ✨ watching anime, doramas, lakorns (i'm really addicted to it)
