@@ -40,18 +40,18 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Python-logo-notext.svg.png" alt="python" width="120" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/ISO_C%2B%2B_Logo.svg.png" alt="iso"  width="100" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Java_programming_language_logo.svg.png" alt="java" width="90" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Visual_Studio_Code_1.35_icon.svg.png" alt="vs" width="100" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Logo_C_sharp.svg.png" alt="c" width=100" hight="30">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/HTML5_logo_and_wordmark.svg.png" width="200" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/CSS3_logo_and_wordmark.svg.png" alt="css" width="140" hight="50">
 </br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/PHP-logo.svg.png" alt="php" width="100" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Sql_data_base_with_logo.png" alt="sql" width="100" hight="50">
+<img src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Visual_Studio_Icon_2019.svg.png" alt="vss" width="50" hight="50">
 </p>
 </br>
 </br>
