@@ -11,7 +11,7 @@
 
 # ☆ . `` about me :
 
-### — Elvira / Elya | i'm 18 (omg...) years old and I'm from ukraine. i'm studying to be a programmer !! | intp - t ^^
+### — Elvira | i'm 18 (omg...) years old and I'm from ukraine. i'm studying to be a programmer !! | intp - t ^^
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/hanako.gif">
 
