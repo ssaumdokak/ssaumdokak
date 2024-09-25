@@ -68,7 +68,7 @@
 i would be happy to have any contact with me, even if you just want to discuss a new dorama series with me or ask me what hair color works best for you !!
 
 <a href="mailto:elvirochka1117@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/gmail.png" />
+ <img align="left" alt="Gmail" width="40" hight="40" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Gmail_icon_(2020).svg.png" />
 </a>
 <a href="https://t.me/ssaumdokak">
   <img align="left" alt="Linkedin" width="40" hight="40" src="https://github.com/ssaumdokak/ssaumdokak/blob/main/image/Telegram_2019_Logo.svg.png" />
