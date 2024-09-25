@@ -26,7 +26,7 @@
 - ✨ read novels and manga
 - ✨ play my favorite guitar
 - ✨ dye my hair (is that even a hobby?)
-- ✨ watching anime, doramas, lakorns (I'm really addicted to it)
+- ✨ watching anime, doramas, lakorns (i'm really addicted to it)
 
 </br>
 </br>
